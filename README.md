@@ -35,6 +35,20 @@ This repository is organized into different modules covered in the master's prog
 
 - **[Hadoop & Spark](https://github.com/JuanArmario/Data-Science-Machine-Learning-Master/tree/main/Module%20VVI%20-%20Hadoop%20-%20Spark)** – Distributed computing and big data processing using Spark and Hadoop ecosystems.
 
+## 🎓 Final Thesis: Machine Learning vs Deep Learning – Liver Cancer Detection
+
+My **[master’s thesis](https://github.com/JuanArmario/MyTFM)** explores the performance comparison between Machine Learning and Deep Learning models in liver cancer detection. The research includes:
+
+- Feature engineering & dataset preprocessing for medical imaging and clinical data.
+
+- Implementation of ML models (Random Forest, SVM, XGBoost) and their evaluation.
+
+- Deep Learning architectures (CNNs, Transfer Learning models) for image-based cancer detection.
+
+- Comparison of key metrics (Accuracy, Recall, ROC-AUC) to determine the most effective approach.
+
+This study aims to provide insights into the applicability of ML and DL in medical diagnostics, focusing on performance, interpretability, and computational efficiency.
+
 ## 🚀 Why This Matters?
 
 This repository showcases my technical skills, problem-solving abilities, and hands-on experience in data science and analytics. It demonstrates my ability to work with real-world data, build predictive models, and leverage big data technologies to generate insights and drive business value.
