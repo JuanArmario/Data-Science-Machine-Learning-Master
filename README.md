@@ -19,7 +19,7 @@ This repository is organized into different modules covered in the master's prog
 
 - **[Business Intelligence (Tableau)](https://github.com/JuanArmario/Data-Science-Machine-Learning-Master/tree/main/Module%20VI%20-%20Business%20Intelligence%20with%20Tableau)** – Data visualization and dashboard creation for business insights.
 
-- Text Mining & Social Media Analysis – Extracting insights from unstructured text and social media data.
+- **[Text Mining & Social Media Analysis](https://github.com/JuanArmario/Data-Science-Machine-Learning-Master/tree/main/Module%20VIV%20-%20Text%20Mining)** – Extracting insights from unstructured text and social media data.
 
 
 ## 🤖 Machine Learning & AI
@@ -28,12 +28,12 @@ This repository is organized into different modules covered in the master's prog
 
 - **[Machine Learning](https://github.com/JuanArmario/Data-Science-Machine-Learning-Master/tree/main/Modulo%20VIII%20-%20Machine%20Learning)** – Model training, evaluation, and hyperparameter tuning.
 
-- Deep Learning – Neural networks, computer vision, and NLP applications.
+- **[Deep Learning](https://github.com/JuanArmario/Data-Science-Machine-Learning-Master/tree/main/Module%20VV%20-%20Deep%20Learning)** – Neural networks, computer vision, and NLP applications.
 
 
 ## ⚡ Big Data & Cloud Computing
 
-- Hadoop & Spark – Distributed computing and big data processing using Spark and Hadoop ecosystems.
+- **[Hadoop & Spark](https://github.com/JuanArmario/Data-Science-Machine-Learning-Master/tree/main/Module%20VVI%20-%20Hadoop%20-%20Spark)** – Distributed computing and big data processing using Spark and Hadoop ecosystems.
 
 ## 🚀 Why This Matters?
 
@@ -42,7 +42,6 @@ This repository showcases my technical skills, problem-solving abilities, and ha
 ## 📬 Let's Connect!
 
 I'm actively seeking opportunities in data science, machine learning, and AI. If you're interested in my work, feel free to reach out!
-- 💼 LinkedIn: [Your LinkedIn Profile]
-- 📂 Portfolio: [Your Personal Website (if any)]
+- 💼 LinkedIn: https://www.linkedin.com/in/juanarmario/
 
 
